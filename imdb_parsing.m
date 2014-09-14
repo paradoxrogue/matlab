@@ -1,5 +1,5 @@
-%%%%% Aggeliki Alampanou
-%%%%% agalaban@uth.gr   
+%%%%% Angeliki Alampanou
+%%%%% alampanoua@gmail.com   
 
 
 %%Search actor's name from the imdb database
